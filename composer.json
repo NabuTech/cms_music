@@ -1,0 +1,11 @@
+{
+    "name": "sj/cms_music",
+    "description": "Music CMS for Dan Browne",
+    "authors": [
+        {
+            "name": "sj",
+            "email": "nabutech@proton.me"
+        }
+    ],
+    "require": {}
+}

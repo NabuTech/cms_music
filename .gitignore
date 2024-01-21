@@ -1,0 +1,6 @@
+Codeception/vendor/
+Codeception/tests/_output/
+Codeception/tests/_data/
+Codeception/tests/_support/
+Codeception/codeception.yml
+Codeception/phpunit.xml
